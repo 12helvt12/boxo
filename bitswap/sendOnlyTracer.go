@@ -1,6 +1,7 @@
 package bitswap
 
 import (
+	
 	"github.com/ipfs/boxo/bitswap/message"
 	"github.com/ipfs/boxo/bitswap/tracer"
 	"github.com/libp2p/go-libp2p/core/peer"
@@ -18,3 +19,4 @@ type nopReceiveTracer struct {
 }
 
 func (nopReceiveTracer) MessageReceived(peer.ID, message.BitSwapMessage) {}
+
