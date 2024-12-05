@@ -51,6 +51,7 @@ We intend to use the standardized changelog to automate releases by onboarding w
 At least as of 2023-06-08, changelog test is manually copied from [the changelog](CHANGELOG.md) to https://github.com/ipfs/boxo/releases.  This means that any updates to the changelog after a release need to be manually copied as well.
 
 ### Related Work
+
 Below are links of related/adjacent work that has informed some of the decisions in this document:
 1. https://github.com/ipfs/boxo/issues/170
 2. https://ipshipyard.notion.site/Kubo-Release-Process-6dba4f5755c9458ab5685eeb28173778
