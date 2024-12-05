@@ -9,7 +9,7 @@
 <p align="center" style="font-size: 1.2rem;">A set of libraries for building IPFS applications and implementations in GO.</p>
 
 <p align="center">
-  <a href="https://ipfs.tech"><img src="https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square" alt="Official Part of IPFS Project"></a>
+  <a href="https://ipfs.tech"><img src="https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-sudare" alt="Official Part of IPFS Project"></a>
   <a href="https://discuss.ipfs.tech"><img alt="Discourse Forum" src="https://img.shields.io/discourse/posts?server=https%3A%2F%2Fdiscuss.ipfs.tech"></a>
   <a href="https://matrix.to/#/#ipfs-space:ipfs.io"><img alt="Matrix" src="https://img.shields.io/matrix/ipfs-space%3Aipfs.io?server_fqdn=matrix.org"></a>
   <a href="https://github.com/ipfs/boxo/actions"><img src="https://img.shields.io/github/actions/workflow/status/ipfs/boxo/go-test.yml?branch=main" alt="ci"></a>
